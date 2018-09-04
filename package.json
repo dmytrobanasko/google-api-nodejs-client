@@ -8,7 +8,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "google-auth-library": "git+ssh://git@github.com:google/google-auth-library.git#webbbpackkk",
+    "google-auth-library": "https://github.com/google/google-auth-library-nodejs.git#webbbpackkk",
     "googleapis-common": "^0.2.0"
   },
   "files": [
